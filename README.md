@@ -1,4 +1,4 @@
-# jubilant-octo-succotash
+# Fraud Detection Case study
 # Financial fraud Detection using machine learning tachniques
 
 Mobile money transactions have significantly increased as a result of the inclusion of enhanced computational power in the most recent smartphones. These transactions are sensitive to illicit practices and are challenging for financial institutions to recognise and distinguish due to their enormous volume and the minimal participation of financial systems.
