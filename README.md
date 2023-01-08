@@ -1,5 +1,5 @@
 # jubilant-octo-succotash
-Financial fraud Detection using machine learning tachniques
+# Financial fraud Detection using machine learning tachniques
 
 Mobile money transactions have significantly increased as a result of the inclusion of enhanced computational power in the most recent smartphones. These transactions are sensitive to illicit practices and are challenging for financial institutions to recognise and distinguish due to their enormous volume and the minimal participation of financial systems.
 Few publicly accessible data on financial products exist, especially for the still-emerging area of mobile transfers of money. Financial datasets are used by many researchers, especially those conducting fraud detection studies. Because financial transactions are inherently private, there are few publicly available datasets. Paysim Dataset, which develops a synthetic dataset after stimulating mobile money transactions retrieved and utilised for this study.
